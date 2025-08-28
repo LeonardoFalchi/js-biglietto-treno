@@ -18,9 +18,9 @@ per controllare che la vostra logica sui prezzi funzioni correttamente, provate 
 //INPUT
 
 //chiedo user Km
-const km = prompt ("Quanti km vuoi percorrere?");
+const km = parseInt(prompt("Quanti km vuoi percorrere?"));
 //chiedo user età
-const eta = prompt ("Quanti anni hai?");
+const eta = parseInt(prompt ("Quanti anni hai?"));
 
 
 //ELABORAZIONE
